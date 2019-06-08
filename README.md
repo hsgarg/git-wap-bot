@@ -1,2 +1,10 @@
-# git-wap-bot
-git-wap-bot is a Whatsapp Bot. It can assist the users by LISTING THE NAMES OF GITHUB REPOSITORIES of a user and by LISTING THE ISSUES IN A REPOSITORY of a user.
+# git-wap-bot :sunglasses:
+
+git-wap-bot is a WhatsApp Bot. This Bot can assist the users by:
+* Listing the Github Respositories of a user.
+![alt text](~/Desktop/get_repos.jppeg "git-wap-bot listing Github repos of user prateek27")
+
+* Listing issues in a Github Repository of a user.
+
+
+
