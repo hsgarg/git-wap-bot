@@ -7,6 +7,14 @@ git-wap-bot is a WhatsApp Bot. This Bot can assist the users by:
 * Listing issues in a Github Repository of a user.
 <img src="images/get_issues.jpeg" width="250">
 
+Currently this bot is trained for of Popular GSoC Organistions and Coding Blocks Mentors.
+
+## Getting Started
+
+*Save +1 (415) 523-8886 in your Contact List
+*Send code join solid-duck to start a conversation
+
+
 ## Built With
 
 * [Flask](http://flask.pocoo.org/docs/1.0/)  
