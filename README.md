@@ -11,8 +11,8 @@ Currently this bot is trained for of Popular GSoC Organistions and Coding Blocks
 
 ## Getting Started
 
-* Save +1 (415) 523-8886 in your Contact List
-* Send code join solid-duck to start a conversation
+* Save **+1 (415) 523-8886** in your Contact List
+* Send code **join solid-duck** to start a conversation
 
 
 ## Built With
